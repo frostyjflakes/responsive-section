@@ -10,7 +10,7 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
   box-sizing: border-box;
-  font: normal 100%/1.3 Noto Sans, sans-serif;
+  font: normal 100%/1.3 'Noto Sans', sans-serif;
   font-size: 1.5rem;
   max-width: 45em;
 }
@@ -51,7 +51,7 @@ h1 {
 }
 
 .section-body {
-  
+
 }
 
 @media only screen and (min-width: 25em) {
@@ -70,21 +70,11 @@ h1 {
     line-height: 1.4;
   }
 
-  /*html {
-    font-size: 110%;
-    line-height: 1.4;
-  }*/
-
 }
 
 @media only screen and (min-width: 60em) {
 
   html {
-    font-size: 120%;
-    line-height: 1.5;
-  }
-
-  /*html {
     font-size: 120%;
     line-height: 1.5;
   }
