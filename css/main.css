@@ -23,13 +23,14 @@ body {
   margin: 1.4rem;
 }
 
-header {
+div {
   padding: .5rem 0;
   background-color: #e5c30a;
   text-align: center;
+  overflow: hidden;
 }
 
-h1 {
+h2 {
   margin: 0 0 .5rem;
   font-size: 1.5rem;
 }
